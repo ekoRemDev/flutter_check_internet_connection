@@ -1,6 +1,6 @@
 # flutter_check_internet_connection
 
-A new Flutter project.
+https://pub.dev/packages/simple_connectivity
 
 ## Getting Started
 
